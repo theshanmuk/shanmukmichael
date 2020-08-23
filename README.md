@@ -26,18 +26,15 @@
   <img align="left" alt="shanmukmichael's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="shanmukmichael@gmail.com">
+<a href="mailto:shanmukmichael@gmail.com">
   <img align="left" alt="shanmuk's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+</a><br>
 
-<br>
-<br>
-
- $**i'm only believe i.e.,** ***" Everything Is Interlinked "***
-**so, Lets Create New!!!**<br>
+ $**i'm only believe i.e.,** **" Everything Is Interlinked "**
+**so, ***Lets Create New!!!***<br>
 
 
-$**Languages & Tools**<br>
+$**Work-on**<br>
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">&nbsp;
