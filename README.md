@@ -29,7 +29,7 @@
 
 <a href="mailto:shanmukmichael@gmail.com">
   <img align="left" alt="shanmuk's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+</a><br>
 
 <br>
 $i'm only believe i.e., "Everything Is Interlinked" so, Lets Create New!!!
