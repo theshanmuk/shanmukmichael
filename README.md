@@ -1,6 +1,8 @@
  $**Hellooo,** **Gits** 👋<br>
- ###  $**call me [mr_shanmuk!](https://www.google.com/search?sxsrf=ALeKk03uMGuR_sTXMeFCgtsVM5nCTDD8pw%3A1598182708402&source=hp&ei=NFVCX9rRFIXA3LUPqKOgoAI&q=shanmuk+michael&oq=Shanm&gs_lcp=CgZwc3ktYWIQAxgAMgQIIxAnMgQIIxAnMgQIIxAnMggIABCxAxCDATIICAAQsQMQgwEyAggAMgIIADICCAAyAggAMgIILjoFCAAQkQI6CwguELEDEMcBEKMCOggILhDHARCjAjoFCAAQsQM6BQguELEDUPsEWLAKYO4TaABwAHgAgAHeAogB_AeSAQcwLjMuMS4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab)**
+ #  $**call me [mr_shanmuk!](https://www.google.com/search?sxsrf=ALeKk03uMGuR_sTXMeFCgtsVM5nCTDD8pw%3A1598182708402&source=hp&ei=NFVCX9rRFIXA3LUPqKOgoAI&q=shanmuk+michael&oq=Shanm&gs_lcp=CgZwc3ktYWIQAxgAMgQIIxAnMgQIIxAnMgQIIxAnMggIABCxAxCDATIICAAQsQMQgwEyAggAMgIIADICCAAyAggAMgIILjoFCAAQkQI6CwguELEDEMcBEKMCOggILhDHARCjAjoFCAAQsQM6BQguELEDUPsEWLAKYO4TaABwAHgAgAHeAogB_AeSAQcwLjMuMS4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab)**
+ 
  <br>
+ 
 **Cybersecurity Keen :man_technologist: | App Web & Game Developer 💻 | Graphic & UI Designer ☄️ | Artist 🎨 | Dancer 🕴 | Technology Lover ⚡</br>**
 
 <img align ="right" src = "https://pic.pimg.tw/bemnlamortest/1414593776-1549443615_n.png" height="270">
@@ -33,10 +35,10 @@
 
 <br>
 
-$**i'm only believe i.e., " **Everything Is Interlinked** " so, ***Lets Create New!!!***
+**$ i'm only believe i.e., " **Everything Is Interlinked** " so, ***Lets Create New!!!***
 <br>
 
-$**Work-on**<br>
+**$ Work-on**<br>
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">&nbsp;
