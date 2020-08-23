@@ -1,6 +1,7 @@
  $**Hellooo,** **Gits** 👋<br>
  $**call me [mr_shanmuk!](https://www.google.com/search?sxsrf=ALeKk03uMGuR_sTXMeFCgtsVM5nCTDD8pw%3A1598182708402&source=hp&ei=NFVCX9rRFIXA3LUPqKOgoAI&q=shanmuk+michael&oq=Shanm&gs_lcp=CgZwc3ktYWIQAxgAMgQIIxAnMgQIIxAnMgQIIxAnMggIABCxAxCDATIICAAQsQMQgwEyAggAMgIIADICCAAyAggAMgIILjoFCAAQkQI6CwguELEDEMcBEKMCOggILhDHARCjAjoFCAAQsQM6BQguELEDUPsEWLAKYO4TaABwAHgAgAHeAogB_AeSAQcwLjMuMS4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab)**
- <br> Cybersecurity Keen :man_technologist: | App Web & Game Developer 💻 | Graphic & UI Designer ☄️ | Artist 🎨 | Dancer 🕴 | Technology Lover ⚡</br>
+ <br>
+# **Cybersecurity** Keen :man_technologist: | App Web & Game Developer 💻 | Graphic & UI Designer ☄️ | Artist 🎨 | Dancer 🕴 | Technology Lover ⚡</br>**
 
 <img align ="right" src = "https://pic.pimg.tw/bemnlamortest/1414593776-1549443615_n.png" height="300">
 
@@ -28,10 +29,11 @@
 
 <a href="mailto:shanmukmichael@gmail.com">
   <img align="left" alt="shanmuk's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a><br>
+</a>
+<br>
 
- $**i'm only believe i.e.,** **" Everything Is Interlinked "**
-**so, ***Lets Create New!!!***<br>
+ $**i'm only believe i.e.,** **" Everything Is Interlinked "** **so,** ***Lets Create New!!!***
+<br>
 
 
 $**Work-on**<br>
