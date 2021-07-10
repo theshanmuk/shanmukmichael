@@ -55,8 +55,6 @@
 <img height="35" src="https://img.icons8.com/color/48/000000/autodesk-maya.png">
 <img height="35" src="https://img.icons8.com/color/48/000000/blender-3d.png">
 <img height="35" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png">
-<img height="35" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png">
-<img height="35" src="https://img.icons8.com/color/48/000000/adobe-lightroom.png">
 <img height="35" src="https://img.icons8.com/color/48/000000/linux.png">
 <img height="35" src="https://img.icons8.com/color/48/000000/kali-linux.png">
 
