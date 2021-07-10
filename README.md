@@ -29,7 +29,7 @@
 
 <br>
 
-**$** **i'm** **only** **believe** **i.e.,** " **Everything Is Interlinked** " **so,** ***Lets Create New!!!***
+**$** **i'm** **only** **believe** **i.e.,** " **everything is interlinked** " **so,** ***Lets Create New!!!***
 <br>
 
 **$ Work-on**<br>
